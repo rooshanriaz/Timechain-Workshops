@@ -1,0 +1,128 @@
+PS C:\Users\riazr\Desktop\TimeChain Workshop> bun run workshop.js
+{
+  data: {
+    user_id: "8c325313-a83d-4413-b026-6f4078dc893d",
+    wallet_id: "ccb3b3c1-0abd-4092-9947-3274f6656f2c",
+    wallet_address: "1fpBxS7NUCiDFfJft5PKzdC9FVyXs8UoW",
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjA1MjA0NjksImlhdCI6MTcxNzkyODQ2OSwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiM2M3MzVkM2EtMTlhYi00NDAxLWI0OTktMjIwNGY5Yzc1NWE2IiwibmJmIjoxNzE3OTI4NDY5LCJzdWIiOiI4YzMyNTMxMy1hODNkLTQ0MTMtYjAyNi02ZjQwNzhkYzg5M2QiLCJ1c2VyX2lkIjoiOGMzMjUzMTMtYTgzZC00NDEzLWIwMjYtNmY0MDc4ZGM4OTNkIn0.wRNfkfc7PKsm6Sx6-UoaUUmlHYCC8zXKH-QzjOpuHw0",
+    pub_key: "03d63ff562f4a458418a05751ed359509c182285c6fcacfc55473a0735de1a80f9",
+    expires_at: "2024-07-09T10:21:09Z",
+    paymail_id: "riazrooshan@dev.neucron.io",
+  },
+  status_code: 200,
+}
+
+PS C:\Users\riazr\Desktop\TimeChain Workshop> bun run workshop.js
+{
+  data: {
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjA1MjEzMjgsImlhdCI6MTcxNzkyOTMyOCwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiM2ExMmM2YzEtNzIwMy00ZTIxLWJiMWQtNjVkNWNjOGNmYzE2IiwibmJmIjoxNzE3OTI5MzI4LCJzdWIiOiI4YzMyNTMxMy1hODNkLTQ0MTMtYjAyNi02ZjQwNzhkYzg5M2QiLCJ1c2VyX2lkIjoiOGMzMjUzMTMtYTgzZC00NDEzLWIwMjYtNmY0MDc4ZGM4OTNkIn0.iPVjj20w5pKF03X9aMN0HPwoReK6-bLQRDN_x2FMpeg",
+    expiresAt: "2024-07-09T10:35:28Z",
+  },
+  status_code: 200,
+}
+[
+  {
+    Address: "1fpBxS7NUCiDFfJft5PKzdC9FVyXs8UoW",
+    Key: "03d63ff562f4a458418a05751ed359509c182285c6fcacfc55473a0735de1a80f9",
+  }, {
+    Address: "1K2MnjRdnuB5rPXbLaq5gAe6maLD8Een1o",
+    Key: "02e7f96b2e1e94a067c1d2ee8f432b43633e6c4dcdea2247d609a7b586d6597d3b",
+  }, {
+    Address: "1D7RPyASvhmhxkkipNxY1UwmWbFYikLXNo",
+    Key: "02ef6127fa717760546e4d40b26abe3305c4c15a9bba363e6f0f0b2e752b4c770b",
+  }, {
+    Address: "17maNETNQgYnXL2XSYU3oohJJWrWBA8tak",
+    Key: "02ab9c87f89cb6f6f55a917a0a03f58b9e927eb1b34eb02cc59fce10d66a1b57f4",
+  }, {
+    Address: "1LS35nJNCQPdC5DuXNrcth1KRMyC8cNmo6",
+    Key: "0245d279b8fe03228fcb3b4e76871fc98aed47ffc9ca0dddedacdfd7321cd3ca40",
+  }, {
+    Address: "1LSTtK359XD3iSUGqRtW3CP5AECnWZv5fe",
+    Key: "03f72040832a95ef939c22435a3115f0735a6ef57048e38939215e6a1fa496edb9",
+  }, {
+    Address: "1AqrD9jpUsZr61iHiuvA731Vg1qDkJF82E",
+    Key: "02db68d935653dbbac7526dedf1721171120ccb7f67ea89000853efbff792fa442",
+  }, {
+    Address: "1vRKWWoGXhGr3KyvXsDBuQwzvBf63MGLA",
+    Key: "02ab56daf95ad7e0f28b6f7df284a88052536565a33157c7e55b62b5b226e07334",
+  }, {
+    Address: "1KoL7AGTR5BzjFEdktppUC7ij2keYGUobY",
+    Key: "02f25bca917ff4b5c028050fca43f746c8e0e5df90557492dfcf5f72ca1de61745",
+  }, {
+    Address: "19KRZ3UzinxgMUTstWiexR6P2N5UtEWEDe",
+    Key: "027ce43d8ed69c6d06a92f25dda31eafcf7c1a597040916c63309aaa1f64982f06",
+  }
+]
+{
+  data: {
+    balance: {
+      confirmed: 0,
+      unconfirmed: 0,
+      summary: 0,
+      count: 0,
+    },
+  },
+  status_code: 200,
+}
+
+PS C:\Users\riazr\Desktop\TimeChain Workshop> bun run workshop.js
+{
+  data: {
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjA1MjI1NzEsImlhdCI6MTcxNzkzMDU3MSwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiYWQ0OTMzZTQtNDA3ZS00YzhmLWEwMWItOWFkYzYyZTM3YzA5IiwibmJmIjoxNzE3OTMwNTcxLCJzdWIiOiI4YzMyNTMxMy1hODNkLTQ0MTMtYjAyNi02ZjQwNzhkYzg5M2QiLCJ1c2VyX2lkIjoiOGMzMjUzMTMtYTgzZC00NDEzLWIwMjYtNmY0MDc4ZGM4OTNkIn0.D2N1c3CSX7GmDOq-ZThLX8TWX1Xjdtf8s2Rix_pV_fY",
+    expiresAt: "2024-07-09T10:56:11Z",
+  },
+  status_code: 200,
+}
+{
+  data: {
+    balance: {
+      confirmed: 0,
+      unconfirmed: 0,
+      summary: 0,
+      count: 0,
+    },
+  },
+  status_code: 200,
+}
+{
+  data: {
+    addresses: [ "1fpBxS7NUCiDFfJft5PKzdC9FVyXs8UoW", "1K2MnjRdnuB5rPXbLaq5gAe6maLD8Een1o",
+      "1D7RPyASvhmhxkkipNxY1UwmWbFYikLXNo", "17maNETNQgYnXL2XSYU3oohJJWrWBA8tak", "1LS35nJNCQPdC5DuXNrcth1KRMyC8cNmo6",
+      "1LSTtK359XD3iSUGqRtW3CP5AECnWZv5fe", "1AqrD9jpUsZr61iHiuvA731Vg1qDkJF82E", "1vRKWWoGXhGr3KyvXsDBuQwzvBf63MGLA",
+      "1KoL7AGTR5BzjFEdktppUC7ij2keYGUobY", "19KRZ3UzinxgMUTstWiexR6P2N5UtEWEDe"
+    ],
+  },
+  status_code: 200,
+}
+
+initiating wallet
+{
+  data: {
+    paymailID: "2114@dev.neucron.io",
+    walletID: "bc6c1fc7-9dc1-459d-81bf-e747e1f53f89",
+  },
+  status_code: 200,
+}
+{
+  data: {
+    balance: {
+      confirmed: 0,
+      unconfirmed: 23795,
+      summary: 23795,
+      count: 2,
+    },
+  },
+  status_code: 200,
+}
+{
+  data: {
+    addresses: [ "1PpntiCpCGvDCN3Ueh2XW4JSKdqkTHjog", "1ChP8LoTW48E8qSLykzRr716xdDnFkGc9A",
+      "12bSNxrrLpF1QW3f8fZ8diwetFTap2pQ6C", "134Pp21LKjpBBGw8jagQLFKiJs9CbiZrdN", "1QCaTrtSkJT9tKQZLQFaVxdYXWDBMuJ5C6",
+      "1KWfynZixCJDL3F554ZyHXDVqstiCeEaT8", "1J2oSgy4VVsEXaS8dc8i8g8x3T4YA9Gh4Q", "1LVnbPnWpw58cFf3ZLH3ZtWXTLUget6QTk",
+      "1NdBDmdVR7jsATZhQ9ztyiow3vg1HVvysw", "1MEM2ART7Gw6crmm2mVt4L3vVKmy1g3mqq"
+    ],
+  },
+  status_code: 200,
+}
+
+Your bitcoin address is  1MFsqdBBGcvzMe5bYdLjeNLeWe7yByfERU
