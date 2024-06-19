@@ -1,0 +1,43 @@
+PS C:\Users\riazr\Documents\Studies\Timechain Labs\Timechain-Workshops\sCrypt\smart-contract-demo> npm run compile
+
+> smartdemo@0.1.0 compile
+> npx scrypt-cli compile
+
+**ERROR**: No sCrypt compiler found.
+
+• Downloading sCrypt compiler: 1.19.2 ...
+
+✔ Successfully downloaded. File Path: C:\Users\riazr\Documents\Studies\Timechain Labs\Timechain-Workshops\sCrypt\smart-contract-demo\node_modules\scryptlib\compiler\scryptc\win32\scryptc.exe
+✔ Building TS
+Compiled successfully, artifact file: C:\Users\riazr\Documents\Studies\Timechain Labs\Timechain-Workshops\sCrypt\smart-contract-demo\artifacts\demo.json
+Compiled successfully, artifact file: C:\Users\riazr\Documents\Studies\Timechain Labs\Timechain-Workshops\sCrypt\smart-contract-demo\artifacts\root.json
+
+Project compilation completed!
+
+2 passing
+
+0 failing
+
+PS C:\Users\riazr\Documents\Studies\Timechain Labs\Timechain-Workshops\sCrypt\smart-contract-demo> npm run deploy
+
+> smartdemo@0.1.0 deploy
+> npx ts-node ./deploy.ts
+
+smart lock deployed : https://whatsonchain.com/tx/7605f46e16673bbccd1299322331fbee1e1ce8cc868bb2bc1233acbbe4ad29bf
+contract unlocked successfully : https://whatsonchain.com/tx/739559988f73c37ad0c5d47530f94e835a7b6dca5a74ec7f50d6cee352d0c3eb
+
+PS C:\Users\riazr\Documents\Studies\Timechain Labs\Timechain-Workshops\sCrypt\smart-contract-demo> npm run deploy-root
+
+> smartdemo@0.1.0 deploy-root
+> npx ts-node ./deploy-root.ts
+
+smart lock deployed : https://whatsonchain.com/tx/d5ac8b67ec24efb2dc833c8b7e08aad2db44ed0cb7a56f40c35a27b528cd8b2a
+contract unlocked successfully : https://whatsonchain.com/tx/c216c6537a6033ae58e1ad7f179aaca42ea183936846e76c9a5d1c112393326f
+
+PS C:\Users\riazr\Videos\timechain\smart-contract-demo> npm run deploy-multiplier
+
+> smartdemo@0.1.0 deploy-multiplier
+> npx ts-node ./deploy-multiplier.ts
+
+Multiplier contract deployed : https://whatsonchain.com/tx/dcfa5dabf2f35cbcc6e1bfff4dcf65e60842918838d4847c3424b1cf55db0b72
+Multiplier contract unlocked successfully : https://whatsonchain.com/tx/75b71c1f5c464bafc7c776aa5691301e1746403f189278320fb60745d1ee5000
